@@ -9,3 +9,8 @@ new text for the test
 
 new text for the test
 new text for the test
+
+test git test git test git
+test git
+test git
+test git
