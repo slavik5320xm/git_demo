@@ -1,14 +1,11 @@
 
 1111111
-2222222
-3333
-4444444
+
+new text for the test
+new text for the test
 5555
 666666
 
 
-new text for the test
-new text for the test
-_______________________
 new text for the test
 new text for the test
