@@ -4,11 +4,8 @@
 new text for the test
 new text for the test
 5555
-666666
+666
 
-
-new text for the test
-new text for the test
 
 test git test git test git
 test git
