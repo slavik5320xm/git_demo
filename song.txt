@@ -22,4 +22,9 @@ test git test git test git
 test git
 test git
 test git
+<<<<<<< HEAD
+>>>>>>> feature
+=======
+t git test git test git
+test git
 >>>>>>> feature
