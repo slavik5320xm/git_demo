@@ -6,14 +6,23 @@ new text for the test
 5555
 666
 
+<<<<<<< HEAD
+=======
+test git test git test git
+test git
+>>>>>>> feature
 
 test git test git test git
 test git
 test git
 test git
 t git test git test git
+<<<<<<< HEAD
 test git
 
 new text for the test
 new text for the test
 new text for the test
+=======
+test git
+>>>>>>> feature
